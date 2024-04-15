@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Maidaan",
+    "description": "Biography/Drama/Sports",
+    "poster_url": "src/assets/Recommended Movies/RM-1.avif"
+  },
+  {
+    "title": "Bade Miyan chote Miyan",
+    "description": "Action/Comedy/Thriller",
+    "poster_url": "src/assets/Recommended Movies/RM-2.avif"
+  },
+  {
+    "title": "Crew",
+    "description": "Comedy/Thriller",
+    "poster_url": "src/assets/Recommended Movies/RM-3.avif"
+  },
+  {
+    "title": "Godzilla x kong: The New Empire",
+    "description": "Action/Sci-Fi/Thriller",
+    "poster_url": "src/assets/Recommended Movies/RM-4.avif"
+  },
+  {
+    "title": "Swatantrya Veer Savarkar",
+    "description": "Biography/Drama",
+    "poster_url": "src/assets/Recommended Movies/RM-5.avif"
+  },
+  {
+    "title": "Madgaon Express",
+    "description": "Comedy/Drama",
+    "poster_url": "src/assets/Recommended Movies/RM-6.avif"
+  },
+  {
+    "title": "Shaitaan",
+    "description": "Comedy/Drama",
+    "poster_url": "src/assets/Recommended Movies/RM-7.avif"
+  },
+  {
+    "title": "The First Omen",
+    "description": "Horror/Thriller",
+    "poster_url": "src/assets/Recommended Movies/RM-8.avif"
+  },
+  {
+    "title": "Alibaba Ani Chalishitale Chor",
+    "description": "Comedy/Mystery",
+    "poster_url": "src/assets/Recommended Movies/RM-9.avif"
+  },
+  {
+    "title": "Kung Fu panda 4",
+    "description": "Action/Adventure/Animation/Comedy",
+    "poster_url": "src/assets/Recommended Movies/RM-10.avif"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "poster_url": "src/assets/premiere/premiere-1.avif",
+    "movie_name": "The Silent Prayer",
+    "language": "Hindi"
+  },
+  {
+    "id": 2,
+    "poster_url": "src/assets/premiere/premiere-2.avif",
+    "movie_name": "Bob Marley One Love",
+    "language": "English"
+  },
+  {
+    "id": 3,
+    "poster_url": "src/assets/premiere/premiere-3.avif",
+    "movie_name": "The Holdovers",
+    "language": "English"
+  },
+  {
+    "id": 4,
+    "poster_url": "src/assets/premiere/premiere-4.avif",
+    "movie_name": "The Climbers",
+    "language": "Mandarin"
+  },
+  {
+    "id": 5,
+    "poster_url": "src/assets/premiere/premiere-5.avif",
+    "movie_name": "Digital Village",
+    "language": "Malayalam"
+  },
+  {
+    "id": 6,
+    "poster_url": "src/assets/premiere/premiere-9.avif",
+    "movie_name": "Madame Web",
+    "language": "English"
+  },
+  {
+    "id": 7,
+    "poster_url": "src/assets/premiere/premiere-8.avif",
+    "movie_name": "Madame Web (10 Minute Preview)",
+    "language": "English"
+  }
+]

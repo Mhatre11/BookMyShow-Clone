@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "poster_url": "src/assets/Music Studio/MS-1.avif",
+    "location": "Dome, NSCI, SVP Stadium, Worli: Mumbai",
+    "title": "FISHER - Live in Mumbai"
+  },
+  {
+    "id": 2,
+    "poster_url": "src/assets/Music Studio/MS-2.avif",
+    "location": "Dombivli Gymkhana Ground",
+    "title": "SWARSANDHYA - Mahesh Kale Live Dombivali"
+  },
+  {
+    "id": 3,
+    "poster_url": "src/assets/Music Studio/MS-3.avif",
+    "location": "Shanmukhananda Hall: Mumbai",
+    "title": "RHYTHMS OF LAXMIKANT PYARELAL"
+  },
+  {
+    "id": 4,
+    "poster_url": "src/assets/Music Studio/MS-4.avif",
+    "location": "Infiniti Malad: Mumbai",
+    "title": "Papon Live in Concert"
+  },
+  {
+    "id": 5,
+    "poster_url": "src/assets/Music Studio/MS-5.avif",
+    "location": "Shanmukhananda Hall: Mumbai",
+    "title": "Adnan Sami Live In Concert"
+  },
+  {
+    "id": 6,
+    "poster_url": "src/assets/Music Studio/MS-6.avif",
+    "location": "Shanmukhananda Hall: Mumbai",
+    "title": "Soul India - Hariharan Live In Concert"
+  },
+  {
+    "id": 7,
+    "poster_url": "src/assets/Music Studio/MS-7.avif",
+    "location": "Concert Hall",
+    "title": "Abhijeet Bhattacharya - LIVE IN CONCERT"
+  },
+  {
+    "id": 8,
+    "poster_url": "src/assets/Music Studio/MS-8.avif",
+    "location": "Concert Hall",
+    "title": "LIVE IN CONCERT - SUDESH BHOSALE"
+  },
+  {
+    "id": 9,
+    "poster_url": "src/assets/Music Studio/MS-9.avif",
+    "location": "Dance Studio",
+    "title": "Red Bull Dance Your Style World Final 2024"
+  },
+  {
+    "id": 10,
+    "poster_url": "src/assets/Music Studio/MS-10.avif",
+    "location": "Experimental Theatre : NCPA",
+    "title": "NCPA Citi Promising Artistes Series"
+  }
+]
